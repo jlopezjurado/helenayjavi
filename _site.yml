@@ -4,8 +4,8 @@ navbar:
   left:
     - text: "Nosotros"
       href: index.html
-    - text: "Buses"
-      href: buses.html
     - text: "Sitio"
       href: sitio.html
+    - text: "Buses"
+      href: buses.html
 output_dir: "docs"

@@ -3,4 +3,4 @@ title: "Sitio"
 output: html_document
 ---
 
-Blablabla
+Bienvenidos a nuestra página de sitio.
