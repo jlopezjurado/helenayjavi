@@ -3,7 +3,7 @@ navbar:
   title: "Helena y Javi"
   left:
     - text: "Nosotros"
-      href: nosotros.html
+      href: index.html
     - text: "Buses"
       href: buses.html
     - text: "Sitio"
