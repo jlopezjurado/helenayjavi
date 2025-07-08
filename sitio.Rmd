@@ -1,7 +1,0 @@
----
-title: "Sitio"
-output: html_document
-output_file: sitio.html
----
-
-Bienvenidos a nuestra página de sitio.
