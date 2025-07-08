@@ -1,5 +1,7 @@
 ---
 title: "Sitio"
 output: html_document
+output_file: donde.html
+
 ---
 El sitio sera en el Valle del Jerte
