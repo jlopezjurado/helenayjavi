@@ -1,5 +1,7 @@
 ---
 title: "Nosotros"
+output: html_document
+output_file: nosotros.html
 ---
 
 Hola a todos! Blablabla
