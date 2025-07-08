@@ -3,9 +3,9 @@ navbar:
   title: "Helena y Javi"
   left:
     - text: "Nosotros"
-      href: index.html
+      href: /helenayjavi/index.html
     - text: "Sitio"
-      href: donde.html
+      href: /helenayjavi/sitio.html
     - text: "Buses"
-      href: buses.html
+      href: /helenayjavi/buses.html
 output_dir: "docs"
