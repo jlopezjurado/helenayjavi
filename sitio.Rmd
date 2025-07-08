@@ -4,3 +4,5 @@ output: html_document
 
 ---
 El sitio sera en el Valle del Jerte
+
+![Descripción de la imagen](C:/Users/javie/Downloads/Valle del Jerte (7 x 5 in) (1).png)
