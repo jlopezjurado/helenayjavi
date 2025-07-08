@@ -1,5 +1,6 @@
 ---
 title: "Sitio"
+output: html_document
 ---
 
 Blablabla

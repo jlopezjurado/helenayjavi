@@ -1,5 +1,6 @@
 ---
 title: "Buses"
+output: html_document
 ---
 
 En construccion!
