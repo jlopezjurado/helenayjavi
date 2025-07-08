@@ -5,4 +5,4 @@ output_file: sitio.html
 ---
 El sitio sera en el Valle del Jerte
 
-![DibujoPlasenciaValle](C:/Users/javie/OneDrive/Documentos/mywebsite/images/imagenAcuarelaValle.png)
+![DibujoPlasenciaValle](images/imagenAcuarelaValle.png)
