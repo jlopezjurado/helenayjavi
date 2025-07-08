@@ -1,11 +1,11 @@
-name: "my-website"
+name: "helenayjavi"
 navbar:
-  title: "My Website"
+  title: "Helena y Javi"
   left:
     - text: "Nosotros"
-      href: index.html
+      href: nosotros.html
     - text: "Buses"
-      href: about.html
+      href: buses.html
     - text: "Sitio"
-      href: Sitio.html
+      href: sitio.html
 output_dir: "docs"
