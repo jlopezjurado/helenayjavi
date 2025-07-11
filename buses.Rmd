@@ -1,7 +1,0 @@
----
-title: "Buses"
-output: html_document
-output_file: buses.html
----
-
-En construcción!

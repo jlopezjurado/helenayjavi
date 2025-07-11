@@ -3,7 +3,7 @@ navbar:
   #title: "Helena y Javi"
   left:
     - text: "Celebración"
-      href: /helenayjavi/sitio.html
+      href: /helenayjavi/celebracion.html
     - text: "Encuesta"
-      href: /helenayjavi/index.html
+      href: /helenayjavi/encuesta.html
 output_dir: "docs"
