@@ -6,7 +6,7 @@ output:
     theme: flatly
     output_file: encuesta.html
 ---
-
+<img src="images/acuarelaValle.jpg" style="width:100%;">
 Nos hace muchísima ilusión celebrar este día con la gente que nos ha acompañado en diferentes etapas de nuestro camino. <br>
 Hemos planeado un día muy íntimo, por lo que nuestra lista de invitados es muy reducida - queremos evitarnos la pregunta ¿*y este quién es*?<br>
 Cuando tengas claro que vas a venir (o que no vendrás, aunque nos rompas un poquito el corazón), por favor rellena el siguiente formulario para que podamos terminar de organizar transporte, comidas y bebidas.
