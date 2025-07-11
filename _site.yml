@@ -2,10 +2,8 @@ name: "helenayjavi"
 navbar:
   #title: "Helena y Javi"
   left:
-    - text: "Nosotros"
-      href: /helenayjavi/index.html
-    - text: "Sitio"
+    - text: "Celebración"
       href: /helenayjavi/sitio.html
-    - text: "Buses"
-      href: /helenayjavi/buses.html
+    - text: "Encuesta"
+      href: /helenayjavi/index.html
 output_dir: "docs"

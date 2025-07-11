@@ -1,9 +1,13 @@
 ---
-title: "Nosotros"
+title: "Encuesta"
 output: html_document
 output_file: index.html
 ---
 
-Hola a todos!
+Nos hace muchísima ilusión celebrar este día con la gente que nos ha acompañado en diferentes etapas de nuestro camino. Hemos planeado un día muy íntimo, por lo que nuestra lista de invitados es muy reducida - queremos evitarnos la pregunta ¿y este quién es? 
+Cuando tengas claro que vas a venir (o que no vendrás, aunque nos rompas un poquito el corazón), por favor rellena el siguiente formulario para que podamos terminar de organizar transporte, comidas y bebidas.
+
+¡¡Ojalá veros a todos allí!!
+
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdymTIwYqv24q1Qq8GTctN9YaUtIO-0EILtxmDs6ekOcluAkQ/viewform?embedded=true" width="640" height="613" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
