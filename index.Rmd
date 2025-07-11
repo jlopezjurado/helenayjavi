@@ -1,7 +1,9 @@
 ---
-#title: "Celebración"
-output: html_document
-output_file: celebracion.html
+title: "Celebración"
+output:
+  html_document:
+    toc: false
+    theme: flatly
 ---
 Hola familia (la que nos toca y la que elegimos),
 Tras diez años juntos y cientos de aventuras por el mundo, queremos celebrar con vosotros lo mucho que nos queremos.
