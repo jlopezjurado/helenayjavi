@@ -1,6 +1,6 @@
 name: "helenayjavi"
 navbar:
-  title: "Helena y Javi"
+  #title: "Helena y Javi"
   left:
     - text: "Nosotros"
       href: /helenayjavi/index.html
