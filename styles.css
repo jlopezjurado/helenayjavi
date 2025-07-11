@@ -5,6 +5,7 @@ body {
   font-size: 16px;         /* You can adjust this */
   color: #333333;          /* Optional: softer black */
   margin: 20px;
+  text-align: justify;  /* This line justifies all text */
 }
 
 /* Optional: Adjust spacing between paragraphs */

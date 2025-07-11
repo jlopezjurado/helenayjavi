@@ -9,11 +9,16 @@ output:
     includes:
       in_header: fonts.html
 ---
-<img src="images/helenayjavi.jpg" style="width:80%;"><br>
-Hola familia (la que nos toca y la que elegimos),<br>
-Tras diez años juntos y cientos de aventuras por el mundo, queremos celebrar con vosotros lo mucho que nos queremos.<br>
-¡Antes que nada! Esto **no es una boda**. Firmaremos los papeles en otro momento, por lo que no habrá ceremonia, pero si alguna que otra sorpresa. Tan solo queremos aprovechar la ocasión para reunir a la gente más importante de nuestra vida y pasar un día juntos riendo, bailando, comiendo y bebiendo (mucha cerveza fría\*).<br>
-Por esta razón, os esperamos el **5 de septiembre en el Valle del Jerte**, rodeados de naturaleza - como no podía ser de otra manera. Queremos sorprenderos, así que mantendremos en secreto el lugar de la celebración hasta el mismo día de la boda. Si tenéis preguntas o preocupaciones, no dudéis en contactarnos (o, mejor dicho, contactar a Helena; todos sabemos que Javi odia todo tipo de comunicación por móvil y contestaría muy tarde, probablemente pasada la fecha).<br>
+<img src="images/helenayjavi.jpg" style="width:80%;">
+
+Hola familia (la que nos toca y la que elegimos),
+
+Tras diez años juntos y cientos de aventuras por el mundo, queremos celebrar con vosotros lo mucho que nos queremos.
+
+¡Antes que nada! Esto **no es una boda**. Firmaremos los papeles en otro momento, por lo que no habrá ceremonia, pero si alguna que otra sorpresa. Tan solo queremos aprovechar la ocasión para reunir a la gente más importante de nuestra vida y pasar un día juntos riendo, bailando, comiendo y bebiendo (mucha cerveza fría\*).
+
+Por esta razón, os esperamos el **5 de septiembre en el Valle del Jerte**, rodeados de naturaleza - como no podía ser de otra manera. Queremos sorprenderos, así que mantendremos en secreto el lugar de la celebración hasta el mismo día de la boda. Si tenéis preguntas o preocupaciones, no dudéis en contactarnos (o, mejor dicho, contactar a Helena; todos sabemos que Javi odia todo tipo de comunicación por móvil y contestaría muy tarde, probablemente pasada la fecha).
+
 <span style="font-size: 0.8em;">\*Para los andaluces: debido a restricciones geográficas, no podemos prometer Cruzcampo en el evento. Lamentamos de antemano cualquier inconveniente que pueda ocasionar.</span>
 
 <img src="images/tips.jpg" style="width:100%;">
