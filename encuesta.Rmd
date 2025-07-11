@@ -6,6 +6,8 @@ output:
     theme: flatly
     output_file: encuesta.html
     css: styles.css
+    includes:
+      in_header: fonts.html
 ---
 <img src="images/acuarelaValle.jpg" style="width:100%;"><br>
 Nos hace muchísima ilusión celebrar este día con la gente que nos ha acompañado en diferentes etapas de nuestro camino. <br>

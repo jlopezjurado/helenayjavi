@@ -6,6 +6,8 @@ output:
     theme: flatly
     output_file: index.html
     css: styles.css
+    includes:
+      in_header: fonts.html
 ---
 <img src="images/helenayjavi.jpg" style="width:80%;"><br>
 Hola familia (la que nos toca y la que elegimos),<br>
