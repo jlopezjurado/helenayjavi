@@ -1,0 +1,16 @@
+/* Import Raleway font from Google */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600&display=swap');
+
+/* Apply Raleway to the whole site */
+body {
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.6;        /* More vertical space between lines */
+  font-size: 16px;         /* You can adjust this */
+  color: #333333;          /* Optional: softer black */
+  margin: 20px;
+}
+
+/* Optional: Adjust spacing between paragraphs */
+p {
+  margin-bottom: 1em;
+}

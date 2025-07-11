@@ -4,7 +4,8 @@ output:
   html_document:
     toc: false
     theme: flatly
-    output_file: encuesta.html
+    output_file: index.html
+    css: styles.css
 ---
 <img src="images/helenayjavi.jpg" style="width:80%;"><br>
 Hola familia (la que nos toca y la que elegimos),<br>
