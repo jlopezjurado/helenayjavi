@@ -1,7 +1,7 @@
 /* Apply Raleway to the whole site */
 body {
   font-family: 'Raleway', sans-serif;
-  line-height: 1.6;        /* More vertical space between lines */
+  line-height: 2.5;        /* More vertical space between lines */
   font-size: 16px;         /* You can adjust this */
   color: #333333;          /* Optional: softer black */
   margin: 20px;
@@ -9,5 +9,5 @@ body {
 
 /* Optional: Adjust spacing between paragraphs */
 p {
-  margin-bottom: 10em;
+  margin-bottom: 1em;
 }
