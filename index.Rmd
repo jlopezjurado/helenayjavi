@@ -9,7 +9,8 @@ output:
     includes:
       in_header: fonts.html
 ---
-<img src="images/helenayjavi.jpg" style="width:80%;">
+
+<img src="images/helenayjavi.jpg" style="width:80%;"/>
 
 Hola familia (la que nos toca y la que elegimos),
 
@@ -19,6 +20,6 @@ Tras diez años juntos y cientos de aventuras por el mundo, queremos celebrar co
 
 Por esta razón, os esperamos el **5 de septiembre en el Valle del Jerte**, rodeados de naturaleza - como no podía ser de otra manera. Queremos sorprenderos, así que mantendremos en secreto el lugar de la celebración hasta el último momento. Si tenéis preguntas o preocupaciones, no dudéis en contactarnos (o, mejor dicho, contactar a Helena: todos sabemos que Javi odia todo tipo de comunicación por móvil y probablemente contestaría pasada la fecha).
 
-<span style="font-size: 0.8em;">\*Para los andaluces: debido a restricciones geográficas, no podemos prometer Cruzcampo en el evento. Lamentamos de antemano cualquier inconveniente que pueda ocasionar.</span>
+[\*Para los andaluces: debido a restricciones geográficas, no podemos prometer Cruzcampo en el evento. Lamentamos de antemano cualquier inconveniente que pueda ocasionar.]{style="font-size: 0.8em;"}
 
-<img src="images/tips.jpg" style="width:150%;">
+<img src="images/tips.jpg" style="width:100%;"/>
