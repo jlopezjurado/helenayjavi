@@ -21,4 +21,4 @@ Por esta razón, os esperamos el **5 de septiembre en el Valle del Jerte**, rode
 
 <span style="font-size: 0.8em;">\*Para los andaluces: debido a restricciones geográficas, no podemos prometer Cruzcampo en el evento. Lamentamos de antemano cualquier inconveniente que pueda ocasionar.</span>
 
-<img src="images/tips.jpg" style="width:100%;">
+<img src="images/tips.jpg" style="width:150%;">
