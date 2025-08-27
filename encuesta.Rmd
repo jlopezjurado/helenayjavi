@@ -23,3 +23,5 @@ Cuando tengas claro que vas a venir (o que no vendrás, aunque nos rompas un poq
 Cargando…
 
 </iframe>
+
+<img src="images/collage.jpg" style="width:100%;"/>
