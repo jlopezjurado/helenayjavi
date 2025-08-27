@@ -18,10 +18,14 @@ Cuando tengas claro que vas a venir (o que no vendrás, aunque nos rompas un poq
 
 ¡Ojalá veros a todos allí!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdymTIwYqv24q1Qq8GTctN9YaUtIO-0EILtxmDs6ekOcluAkQ/viewform?embedded=true" width="640" height="613" frameborder="0" marginheight="0" marginwidth="0">
-
-Cargando…
-
+<iframe 
+  src="https://docs.google.com/forms/d/e/1FAIpQLSdymTIwYqv24q1Qq8GTctN9YaUtIO-0EILtxmDs6ekOcluAkQ/viewform?embedded=true" 
+  width="100%" 
+  height="800" 
+  frameborder="0" 
+  marginheight="0" 
+  marginwidth="0">
+  Cargando…
 </iframe>
 
 <img src="images/collage.jpg" style="width:100%;"/>
