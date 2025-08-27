@@ -25,3 +25,4 @@ Por esta razón, os esperamos el **5 de septiembre en el Valle del Jerte**, rode
 <img src="images/tips3.jpg" style="width:100%;"/>
 
 <img src="images/dec2016.jpg" style="width:100%;"/>
+[Diciembre, 2016]{style="font-size: 0.8em;"}
