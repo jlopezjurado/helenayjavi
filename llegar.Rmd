@@ -10,7 +10,7 @@ output:
       in_header: fonts.html
 ---
 
-En el mapa hemos incluido el recorrido de autobús desde Plasencia (https://maps.app.goo.gl/kyPRRKuXTm8ytZ9m9) hasta el Molino de Viriato (https://maps.app.goo.gl/hBh7RaWUMxLwo2do9), sobre el que intentaremos añadir las paradas que podamos y que os vengan mejor.
+En el mapa hemos incluido el recorrido de autobús desde Plasencia ([PINCHA AQUÍ](https://maps.app.goo.gl/kyPRRKuXTm8ytZ9m9) hasta El Molino de Viriato ([PINCHA AQUÍ](https://maps.app.goo.gl/hBh7RaWUMxLwo2do9), sobre el que intentaremos añadir las paradas que podamos y que os vengan mejor.
 
 Si necesitáis más información sobre casas rurales u hoteles por la zona, no dudéis en mandarle un mensajito a la extremeña para que os eche una mano.
 
