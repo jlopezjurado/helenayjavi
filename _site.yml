@@ -6,4 +6,6 @@ navbar:
       href: index.html
     - text: "Encuesta"
       href: encuesta.html
+    - text: "Cómo llegar"
+      href: llegar.html
 output_dir: "docs"
