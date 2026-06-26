@@ -10,7 +10,7 @@ output:
       in_header: fonts.html
 ---
 
-En el mapa hemos incluido el recorrido de autobús desde Plasencia ([ubicación](https://maps.app.goo.gl/kyPRRKuXTm8ytZ9m9)) hasta El Molino de Viriato ([ubicación](https://maps.app.goo.gl/hBh7RaWUMxLwo2do9)), sobre el que intentaremos añadir las paradas que podamos y os vengan mejor ([ubicación](https://maps.app.goo.gl/kyPRRKuXTm8ytZ9m9)) **a las 17.30h**.
+En el mapa hemos incluido el recorrido de autobús desde Plasencia ([ubicación](https://maps.app.goo.gl/kyPRRKuXTm8ytZ9m9)) hasta El Molino de Viriato ([ubicación](https://maps.app.goo.gl/hBh7RaWUMxLwo2do9)), sobre el que intentaremos añadir las paradas que podamos y os vengan mejor **a las 17.30h**.
 
 Cómo llegar desde Plasencia **en coche**:
 
