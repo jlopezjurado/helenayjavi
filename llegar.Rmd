@@ -10,9 +10,18 @@ output:
       in_header: fonts.html
 ---
 
-En el mapa hemos incluido el recorrido de autobús desde Plasencia ([ubicación](https://maps.app.goo.gl/kyPRRKuXTm8ytZ9m9)) hasta El Molino de Viriato ([ubicación](https://maps.app.goo.gl/hBh7RaWUMxLwo2do9)), sobre el que intentaremos añadir las paradas que podamos y que os vengan mejor.
+Cómo llegar desde Plasencia **en autobús**:
+El autobús estará en el primer punto de recogida en Plasencia ([ubicación](https://maps.app.goo.gl/kyPRRKuXTm8ytZ9m9)) **a las 17.30h**. Intentaremos añadir más paradas si os vienen mejor. El recorrido acabará, cómo no, en El Molino de Viriato ([ubicación](https://maps.app.goo.gl/hBh7RaWUMxLwo2do9)), sobre el que intentaremos añadir las paradas que podamos y que os vengan mejor. ¡Os estaremos esperando!
+
+<img src="images/mapabus.jpg" style="width:100%;"/>
+
+Cómo llegar desde Plasencia **en coche**:
+El Molino de Viriato está muy cerquita de Plasencia, a aproximadamente 20 minutos en coche.
+Primero debéis tomar la N-110 en dirección Valle del Jerte / Ávila y recorrer unos 22 km. Llegaréis a la intersección con la carretera del Rebollar (CC-234), que encontraréis a vuestra izquierda.
+Continuad por esa carretera hasta encontrar una salida a la izquierda en una curva cerrada, señalizada con un gran cartel de "Parque Aventura" y, un poco más discretamente, "Molino de Viriato".
+A partir de ahí, conduciréis unos minutos entre cerezos. Os recomendamos ir despacito por si se cruza algún zorro o ciervo despistado.
 
 Si necesitáis más información sobre casas rurales u hoteles por la zona, no dudéis en mandarle un mensajito a la extremeña para que os eche una mano.
 
-<img src="images/mapavalle.jpg" style="width:100%;"/>
+<img src="images/mapacarretera.jpg" style="width:100%;"/>
 
