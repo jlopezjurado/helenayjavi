@@ -1,0 +1,28 @@
+---
+title: ""
+output:
+  html_document:
+    toc: false
+    theme: flatly
+    output_file: index.html
+    css: styles.css
+    includes:
+      in_header: fonts.html
+---
+
+<img src="images/Copy of Helena & i.png" style="width:80%;"/>
+
+Hola familia (la que nos toca y la que elegimos),
+
+Tras diez años juntos y cientos de aventuras por el mundo, queremos celebrar con vosotros lo mucho que nos queremos.
+
+¡Antes que nada! No imaginéis una boda convencional. Firmaremos los papeles en otro momento, por lo que no habrá ceremonia, pero sí alguna que otra sorpresa. Tan solo queremos aprovechar la ocasión para reunir a la gente más importante de nuestra vida y pasar un día juntos riendo, bailando, comiendo y bebiendo (mucha cerveza fría\*).
+
+Por esta razón, os esperamos el **5 de septiembre** en el Valle del Jerte. Nos reuniremos en **El Molino de Viriato**, rodeados de naturaleza - como no podía ser de otra manera. Si tenéis preguntas o preocupaciones, no dudéis en contactarnos (o, mejor dicho, contactar a Helena: todos sabemos que Javi odia todo tipo de comunicación por móvil y probablemente contestaría pasada la fecha).
+
+[\*Para los andaluces: debido a restricciones geográficas, no podemos prometer Cruzcampo en el evento. Lamentamos de antemano cualquier inconveniente que pueda ocasionar.]{style="font-size: 0.8em;"}
+
+<img src="images/tips3.jpg" style="width:100%;"/>
+
+<img src="images/dec2016.jpg" style="width:100%;"/>
+[Diciembre, 2016]{style="font-size: 0.8em;"}
