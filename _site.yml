@@ -4,8 +4,8 @@ navbar:
   left:
     - text: "Celebración"
       href: index.html
-    - text: "Encuesta"
-      href: encuesta.html
     - text: "Cómo llegar"
       href: llegar.html
+    - text: "Fotos"
+      href: fotos.html
 output_dir: "docs"
