@@ -4,11 +4,13 @@ output:
   html_document:
     toc: false
     theme: flatly
-    output_file: encuesta.html
+    output_file: fotos.html
     css: styles.css
     includes:
       in_header: fonts.html
 ---
+
+<img src="images/collagenew.jpg" style="width:100%;"/>
 
 BLABLABLA
 
