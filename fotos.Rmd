@@ -10,13 +10,9 @@ output:
       in_header: fonts.html
 ---
 
-<img src="images/collagenew.jpg" style="width:100%;"/>
-
-BLABLABLA
-
 <div style="text-align:center; margin:20px 0;">
   <h3>📸 Comparte tus fotos</h3>
-  <p>¡Sube las fotos de nuestro día a nuestro álbum compartido!</p>
+  <p>¡Sube tus fotos a nuestro álbum compartido!</p>
 
   <a href="https://photos.app.goo.gl/2UrLdFj2baXL8deo7"
      target="_blank"
@@ -24,3 +20,5 @@ BLABLABLA
      Abrir álbum
   </a>
 </div>
+
+<img src="images/collagenew.jpg" style="width:100%;"/>
